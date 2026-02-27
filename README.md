@@ -21,4 +21,4 @@
    git clone <你的仓库地址>
    cd <项目文件夹>
    修改config.py中的ACCESS_KEY_ID和ACCESS_KEY_SECRET
-   执行 python .\main.py
+   执行  python main.py <图片路径> [类别] [返回形式]
