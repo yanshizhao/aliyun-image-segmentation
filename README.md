@@ -1,6 +1,6 @@
-# Alibaba Cloud Image Segmentation Tool (服饰图像分割工具)
+# Alibaba imageseg20191230Client 图像分割模型生成鞋子蒙版图
 
-一个基于阿里云 imageseg20191230Client 图像分割模型 的 Python 命令行工具，支持对服饰（如鞋子、衣服等）进行智能分割，并保存分割后的掩码（Mask）或边缘图。
+基于阿里云 imageseg20191230Client 图像分割模型 的 Python 命令行工具，支持对服饰（如鞋子、衣服等）进行智能分割，并保存分割后的掩码（Mask。
 
 ## ✨ 功能特点
 
