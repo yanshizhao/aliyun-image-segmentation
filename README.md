@@ -18,7 +18,7 @@
 
 1. **克隆项目**
    ```bash
-   git clone <你的仓库地址>
+   git clone https://github.com/yanshizhao/shoe-mask-generator.git
    cd <项目文件夹>
    修改config.py中的ACCESS_KEY_ID和ACCESS_KEY_SECRET
    执行  python main.py <图片路径> [类别] [返回形式]
